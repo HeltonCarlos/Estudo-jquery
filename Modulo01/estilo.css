@@ -1,0 +1,9 @@
+.gray{width:300px;height: 80px;
+background-color: #ccc;
+}
+
+ p{font-weight: 500;
+font-style: italic;padding: 20px;}
+
+.green{background-color: rgb(4, 177, 33);
+    width:300px;height: 80px;color:#fff;}
